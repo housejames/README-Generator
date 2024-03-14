@@ -1,5 +1,8 @@
 # Command-line Application README Generator
 
+![ezgif-1-5a4d30089d](https://github.com/housejames/README-Generator/assets/84170842/a1032fa7-e6bc-49a7-a60e-291181ca7a4b)
+
+
 ## Description
 This command-line application is designed to generate high-quality, professional README.md files for your projects. It prompts users for information about their project repository and automatically generates a README file with appropriate sections and content.
 
