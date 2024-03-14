@@ -24,12 +24,6 @@ To use the Command-line Application README Generator:
 3. Once all information is provided, a README file will be generated automatically.
 
 ## Tests
-To run tests, execute the following command:
-2. Follow the prompts to provide information about your project repository.
-3. Once all information is provided, a README file will be generated automatically.
-
-## Tests
-To run tests, execute the following command:
 
 ## Questions
 For questions or additional information, please reach out to the project owner:
