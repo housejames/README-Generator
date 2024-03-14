@@ -1,6 +1,6 @@
 # Command-line Application README Generator
 
-![Screen Recording](./gif/Screen%20Recording%202024-03-13%20at%208.31.54%20PM.mov)
+![Screen Recording](./gif/New%20project.mp4)
 
 ## Description
 This command-line application is designed to generate high-quality, professional README.md files for your projects. It prompts users for information about their project repository and automatically generates a README file with appropriate sections and content.
